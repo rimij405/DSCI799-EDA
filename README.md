@@ -14,7 +14,9 @@ Dependencies are managed using the {[renv](https://rstudio.github.io/renv/articl
 
 Datasets must be manually obtained due to licensing restrictions.
 
-- [Zillow Observed Rent Index (ZORI)](https://www.zillow.com/research/data/) - Obtained 10/16/2023. Download `ZORI (Smoothed): All Homes Plus Multifamily Time Series ($)` for the `ZIP Codes` Geography.
+- Zillow Group, [Zillow Observed Rent Index (ZORI)](https://www.zillow.com/research/data/). https://www.zillow.com/research/data/, October 16, 2023. Download `ZORI (Smoothed): All Homes Plus Multifamily Time Series ($)` for the `ZIP Codes` Geography.
+
+- Zillow Group, [Median Asking Rent](https://streeteasy.com/blog/data-dashboard/), https://streeteasy.com/blog/data-dashboard/, September 11, 2023.
 
 - [The School-Level Master File](https://steinhardt.nyu.edu/research-alliance/research/school-level-master-file) (SCHMA) published by the Research Alliance for New York City Schools at New York University - Obtained 09/11/2023. Apply for and download the dataset.
 

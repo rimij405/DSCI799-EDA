@@ -18,6 +18,8 @@ Datasets must be manually obtained due to licensing restrictions.
 
 - [The School-Level Master File](https://steinhardt.nyu.edu/research-alliance/research/school-level-master-file) (SCHMA) published by the Research Alliance for New York City Schools at New York University - Obtained 09/11/2023. Apply for and download the dataset.
 
+- [Rental Vacancy Rate for New York - 1986-2022](https://fred.stlouisfed.org/series/NYRVAC) (NYRVAC) U.S. Census Bureau, Rental Vacancy Rate for New York [NYRVAC], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/NYRVAC, October 16, 2023. 
+
 ## Methodology
 
 To understand the workflow, please consult ["Creating an Analysis With a `targets` Workflow" by Robert M Flight](https://rmflight.github.io/posts/2022-09-27-creating-an-analysis-using-targets/#tldr).

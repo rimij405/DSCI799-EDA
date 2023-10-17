@@ -18,7 +18,7 @@ Datasets must be manually obtained due to licensing restrictions.
 
 - Zillow Group, [Median Asking Rent](https://streeteasy.com/blog/data-dashboard/), https://streeteasy.com/blog/data-dashboard/, September 11, 2023.
 
-- [The School-Level Master File](https://steinhardt.nyu.edu/research-alliance/research/school-level-master-file) (SCHMA) published by the Research Alliance for New York City Schools at New York University - Obtained 09/11/2023. Apply for and download the dataset.
+- Research Alliance for New York City Schools at New York University, [The School-Level Master File](https://steinhardt.nyu.edu/research-alliance/research/school-level-master-file) (SCHMA), https://steinhardt.nyu.edu/research-alliance/research/school-level-master-file, September 11, 2023. *Download received after application is filled out.*
 
 - U.S. Census Bureau, [Rental Vacancy Rate for New York](https://fred.stlouisfed.org/series/NYRVAC) [NYRVAC], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/NYRVAC, October 16, 2023.
 

@@ -18,7 +18,9 @@ Datasets must be manually obtained due to licensing restrictions.
 
 - [The School-Level Master File](https://steinhardt.nyu.edu/research-alliance/research/school-level-master-file) (SCHMA) published by the Research Alliance for New York City Schools at New York University - Obtained 09/11/2023. Apply for and download the dataset.
 
-- [Rental Vacancy Rate for New York - 1986-2022](https://fred.stlouisfed.org/series/NYRVAC) (NYRVAC) U.S. Census Bureau, Rental Vacancy Rate for New York [NYRVAC], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/NYRVAC, October 16, 2023. 
+- U.S. Census Bureau, [Rental Vacancy Rate for New York](https://fred.stlouisfed.org/series/NYRVAC) [NYRVAC], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/NYRVAC, October 16, 2023.
+
+- City of New York, [NYCHA Residential Addresses](https://data.cityofnewyork.us/Housing-Development/NYCHA-Residential-Addresses/3ub5-4ph8), retrieved from NYC Open Data; https://data.cityofnewyork.us/Housing-Development/NYCHA-Residential-Addresses/3ub5-4ph8, October 16, 2023.
 
 ## Methodology
 

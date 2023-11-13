@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+exploration|stem|67fcdb706e42311e|15949821e5e6b9c8|ef46db3751d8e999|561864688|doc/exploration.html*doc/exploration.Rmd|t19647.1269657118s|d1994cff7f8779bf|627775|file|local|vector|||1.59||
+nyrvac_file|stem|0667a887b03b47c2|01fb9d4588329049|ef46db3751d8e999|-531320175|data-raw/FRED/FRED - NYRVAC.csv|t19647.0697345492s|ad70a8dcd04daced|567|file|local|vector|||0||
+df_vacancy|stem|ffa462939a685baf|7222be484827c230|42fc93c90ce60566|-1053662462||t19647.1269699705s|2e799dafded695d9|538|rds|local|vector|||0.13||

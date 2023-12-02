@@ -2,9 +2,11 @@
 
 Exploratory data analysis for the education and housing datasets.
 
-## Getting Started
-
 This is an R project created with the {[tflow](https://github.com/milesmcbain/tflow)} process. The {`tflow`} package was developed by `@milesmcbain`.
+
+Development with the [`pre-commit`]() requires local installation of Python. Development dependencies are managed with `Pipfile.lock` to ensure deterministic, hash-secured builds.
+
+## Getting Started
 
 Clone this repository locally to get the analysis code.
 
